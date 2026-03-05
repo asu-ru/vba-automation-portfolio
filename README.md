@@ -1,22 +1,28 @@
 # Excel VBA Automation Portfolio
 
-Excel VBAで業務自動化を行っています。
+Excel業務の自動化ツールを開発しています。
 
-## できること
+業務効率化・データ処理・API連携などに対応可能です。
 
-・Excel作業の自動化
+## Skills
+
+・Excel VBA
 ・CSVデータ処理
-・APIデータ取得
-・レポート自動作成
+・REST API連携
+・JSON解析
+・Power Query
 
-## サンプル
+## Sample Projects
 
-### CSV集計ツール
+### 1 CSV Aggregator
+複数CSVを自動で統合するツール
 
-複数CSVを自動集計するVBA
+### 2 Excel Batch Processor
+フォルダ内Excelを一括処理
 
-module: csv_aggregator.bas
+### 3 API to Excel
+APIデータをExcelに自動取得
 
-## 連絡
+## Contact
 
-案件相談歓迎です
+案件相談歓迎です。
